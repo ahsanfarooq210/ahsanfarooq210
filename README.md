@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanfarooq210" alt="ahsanfarooq210" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Langchain and system design**
 
 - 📫 How to reach me **ahsanfarooq210@gmail.com**
 
