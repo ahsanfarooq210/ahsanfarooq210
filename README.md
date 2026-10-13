@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C5CFF,50:00D1FF,100:FF5CAA&height=260&section=header&text=Muhammad%20Ahsan%20Farooq&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=60&stroke=ffffff&strokeWidth=1" alt="Header banner" width="100%"/>
 
 <a href="https://github.com/ahsanfarooq210">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=700&height=45&lines=Hey+there!+%F0%9F%91%8B+I'm+Ahsan;Building+scalable+full+stack+products;Exploring+LangChain+%26+AI+agents+%F0%9F%A4%96;Designing+systems+that+scale+%F0%9F%8F%97%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=700&height=45&lines=Hey+there!+%F0%9F%91%8B+I'm+Ahsan;Building+scalable+full+stack+products;Learning+LangChain%2C+LangGraph+%26+AI+agents+%F0%9F%A4%96;Mastering+system+design+%26+architecture+%F0%9F%8F%97%EF%B8%8F;Scaling+databases+like+a+pro+%F0%9F%97%84%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -37,8 +37,11 @@ const ahsan = {
     "Distributed Systems",
   ],
   currentlyLearning: [
-    "LangChain",
+    "LangChain & LangGraph",
     "System Design",
+    "System Architecture",
+    "Database Scaling",
+    "...and always more",
   ],
   stack: [
     "TypeScript", "React", "Next.js",
@@ -51,10 +54,11 @@ const ahsan = {
 </td>
 <td width="42%" valign="top">
 
-### 🔭 Right now
-- 🌱 Learning **LangChain** & **system design**
-- 🤖 Exploring **AI agent** workflows
-- 🏗️ Turning messy requirements into clean, scalable architecture
+### 🔭 Currently Learning
+- 🤖 **LangChain & LangGraph**: building stateful, multi-step AI agent workflows
+- 🏗️ **System design & architecture**: crafting scalable, resilient systems
+- 🗄️ **Database scaling**: sharding, replication, caching and indexing
+- 🚀 ...and everything in between that makes software scale
 
 ### 📫 Reach me
 **ahsanfarooq210@gmail.com**
@@ -77,12 +81,12 @@ const ahsan = {
 <sub>React, Next.js, Node.js, NestJS<br/>Clean APIs and polished UIs</sub>
 </td>
 <td align="center" width="33%">
-<h3>🏗️ System Design</h3>
-<sub>Scalable, resilient architecture<br/>Built to grow with the product</sub>
+<h3>🏗️ Architecture &amp; Scale</h3>
+<sub>System design, resilient architecture<br/>Database scaling for growing products</sub>
 </td>
 <td align="center" width="33%">
 <h3>🤖 AI Engineering</h3>
-<sub>LangChain, Python, agents<br/>LLM-powered products</sub>
+<sub>LangChain, LangGraph, Python<br/>Agentic, LLM-powered products</sub>
 </td>
 </tr>
 </table>
@@ -130,7 +134,7 @@ flowchart LR
 <tr><td align="right"><b>Mobile &amp; Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=androidstudio,postman,figma" alt="Mobile and tools" /></td></tr>
 <tr><td align="right"><b>AI / ML</b></td>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,py" alt="AI and ML" />&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="48" /></td></tr>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,py" alt="AI and ML" />&nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="48" />&nbsp;<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" height="48" /></td></tr>
 </table>
 
 </div>
@@ -164,6 +168,12 @@ mindmap
       Python
       TensorFlow
       LangChain
+      LangGraph
+    Learning Now
+      System Design
+      System Architecture
+      Database Scaling
+      AI Agents
     Languages
       TypeScript
       JavaScript
